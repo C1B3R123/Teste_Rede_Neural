@@ -1,7 +1,7 @@
-# Um Repositório para reforçar e aprender sobre rede neurais.
+# A repo with a simple Neural_network to play a snake game
 
-## Estou começando a Estudar com amigos sobre o tema, e este repositório será um teste para colocar em prática o que aprendemos. 
+##The intuit of this repo originally it's to cowork in this code, i built the network and the Contribuitors built the game.
 
-Vou deixar o Github do envolvidos no projeto aqui embaixo:
+Contribuitors:
 
 **🤓[MaxwellRad](https://github.com/MaxwellRad)**
